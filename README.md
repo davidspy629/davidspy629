@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @davidspy629
-- 👀 I’m interested in Web Development, Processing, Python
-- 🌱 I’m currently learning Processing
-- 💞️ I’m looking to collaborate on small Games on allmost any engine
+- 👀 I’m interested in Web Development, 3D printing, electronics
+- 🌱 I’m currently learning MySQL
 - 📫 How to reach me davidspitaler007@gmail.com
 
 <!---
