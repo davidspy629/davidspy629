@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidspy629
 - 👀 I’m interested in Web Development, 3D printing, electronics
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me davidspitaler007@gmail.com
 
 <!---
